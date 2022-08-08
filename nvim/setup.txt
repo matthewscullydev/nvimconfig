@@ -1,0 +1,5 @@
+1.) first install vim plug by running the unix/linux command 
+	- for this step you will need to add the plug call syntax and Plugs as you need them.
+	- turn syntax on so code makes sense
+	- run PlugInstall when you are ready to install the plugins
+	- run PlugClean when you would like to get rid of plugins
